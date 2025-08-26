@@ -411,8 +411,8 @@ function App() {
             <div className="bg-card border border-border rounded-lg p-6 neon-glow">
               <h3 className="text-2xl font-bold mb-4 text-center">Базовый</h3>
               <div className="text-center mb-6">
-                <div className="text-3xl font-bold text-primary">5 000 ₽</div>
-                <div className="text-sm text-muted-foreground line-through">8 000 ₽</div>
+                <div className="text-3xl font-bold text-primary">9 990 ₽</div>
+                <div className="text-sm text-muted-foreground line-through">14 990 ₽</div>
                 <div className="text-sm text-accent">для первых 10 учеников</div>
               </div>
               <ul className="space-y-2 mb-6">
@@ -438,8 +438,8 @@ function App() {
               </div>
               <h3 className="text-2xl font-bold mb-4 text-center">Продвинутый</h3>
               <div className="text-center mb-6">
-                <div className="text-3xl font-bold text-primary">10 000 ₽</div>
-                <div className="text-sm text-muted-foreground line-through">15 000 ₽</div>
+                <div className="text-3xl font-bold text-primary">14 990 ₽</div>
+                <div className="text-sm text-muted-foreground line-through">19 990 ₽</div>
                 <div className="text-sm text-accent">для первых 10 учеников</div>
               </div>
               <ul className="space-y-2 mb-6">
@@ -466,8 +466,8 @@ function App() {
             <div className="bg-card border border-border rounded-lg p-6 neon-glow">
               <h3 className="text-2xl font-bold mb-4 text-center">VIP</h3>
               <div className="text-center mb-6">
-                <div className="text-3xl font-bold text-primary">20 000 ₽</div>
-                <div className="text-sm text-muted-foreground line-through">30 000 ₽</div>
+                <div className="text-3xl font-bold text-primary">29 990 ₽</div>
+                <div className="text-sm text-muted-foreground line-through">39 900 ₽</div>
                 <div className="text-sm text-accent">для первых 10 учеников</div>
               </div>
               <ul className="space-y-2 mb-6">
