@@ -62,7 +62,7 @@ const moduleData = {
     ]
   },
   6: {
-    title: "Нейрфото и графический дизайн на ПК: Recraft, Krea, Fooocus",
+    title: "Нейрофото и графический дизайн на ПК: Recraft, Krea, Fooocus",
     content: [
       "Работа в Recraft для создания базового изображения",
       "Работа в Kling для создания базового изображения",
